@@ -11,17 +11,17 @@
 /*  Ayubxon's page end  */
 
 /*  Akbarshox's page start  */
- .pagess{
+.pagess {
   background-color: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
- margin-top: 30px;
- gap: 30px;
- }
- .p1.p2.p3{
+  margin-top: 30px;
+  gap: 30px;
+}
+.p1.p2.p3 {
   margin-top: 15px;
- }
+}
 
 /*  Akbarshox's page end  */
 
@@ -29,6 +29,98 @@
 /*  Dilmirod's page end  */
 
 /*  Abdulbosit's page start  */
+.devices-section {
+  padding: 60px 0;
+}
+
+.devices-container {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.top-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 45px;
+}
+
+.devices-title {
+  font-size: 36px;
+  font-weight: 900;
+  width: 45%;
+  line-height: 1.3;
+}
+
+.top-images {
+  width: 55%;
+  display: flex;
+  gap: 25px;
+}
+
+.device-big {
+  background: #fff;
+  border-radius: 20px;
+  padding: 30px 25px 45px;
+  flex: 1;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.device-big img {
+  width: 130px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.device-big p {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.arrow {
+  width: 38px;
+  height: 38px;
+  background: #ffe9e1;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 15px;
+  right: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ff6a33;
+  font-size: 22px;
+}
+
+.bottom-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.device-small {
+  background: #fff;
+  border-radius: 20px;
+  width: 25%;
+  padding: 25px 20px 45px;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.device-small img {
+  width: 110px;
+  height: auto;
+  margin-bottom: 12px;
+}
+
+.device-small p {
+  font-size: 17px;
+  font-weight: 600;
+}
 /*  Abdulbosit's page end  */
 
 /*  Valixon's page start  */
