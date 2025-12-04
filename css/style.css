@@ -11,6 +11,18 @@
 /*  Ayubxon's page end  */
 
 /*  Akbarshox's page start  */
+ .pagess{
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ margin-top: 30px;
+ gap: 30px;
+ }
+ .p1.p2.p3{
+  margin-top: 15px;
+ }
+
 /*  Akbarshox's page end  */
 
 /*  Dilmirod's page start  */
