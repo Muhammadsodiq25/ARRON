@@ -8,6 +8,33 @@
 }
 
 /*  Ayubxon's page start  */
+header{
+  display: flex;
+  justify-content: space-around;
+}
+.arron{
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+  margin-top: 20px;
+  gap: 20px;
+}
+.tel{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-top: 35px;
+}
+.divin2{
+  gap: 15px;
+  font-size: 12px;
+  display: flex;
+  margin-top: 20px;
+
+}
+.divin2 a{
+  color: black;
+}
 /*  Ayubxon's page end  */
 
 /*  Akbarshox's page start  */
