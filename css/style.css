@@ -167,6 +167,84 @@ header{
 /*  Ibrohim's page end  */
 
 /*  Abdulaziz's page start  */
+.about-section {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 30px;
+}
+
+.about-text {
+  flex: 1;
+  color: #333;
+}
+
+.quote {
+  font-size: 18px;
+  font-weight: 600;
+  color: #003f8c;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.quote-mark {
+  color: #3a8bff;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.about-text p {
+  margin-bottom: 12px;
+  line-height: 2;
+  color: #444;
+}
+
+.about-image {
+  position: relative;
+  flex: 1;
+  text-align: center;
+}
+
+.about-image img {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+.arrow {
+  position: absolute;
+  top: 45%;
+  background: white;
+  border: 1px solid #ddd;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 22px;
+  line-height: 32px;
+  color: #333;
+}
+
+.arrow.left {
+  left: -15px;
+}
+
+.arrow.right {
+  right: -15px;
+}
+
+.dots span {
+  display: flex;
+  width: 10px;
+  height: 10px;
+  background: #c3c3c3;
+  border-radius: 50%;
+  margin: 0 4px;
+}
+
 /*  Abdulaziz's page end  */
 
 /*  Maftuna's page start  */
