@@ -12,31 +12,30 @@
 }
 
 /*  Ayubxon's page start  */
-header{
+header {
   display: flex;
   justify-content: space-around;
 }
-.arron{
+.arron {
   display: flex;
   align-items: center;
   margin-left: 15px;
   margin-top: 20px;
   gap: 20px;
 }
-.tel{
+.tel {
   display: flex;
   gap: 10px;
   align-items: center;
   margin-top: 35px;
 }
-.divin2{
+.divin2 {
   gap: 15px;
   font-size: 12px;
   display: flex;
   margin-top: 20px;
-
 }
-.divin2 a{
+.divin2 a {
   color: black;
 }
 /*  Ayubxon's page end  */
@@ -62,6 +61,7 @@ header{
 /*  Abdulbosit's page start  */
 .devices-section {
   padding: 60px 0;
+  margin-top: 100px;
 }
 
 .devices-container {
